@@ -3,9 +3,13 @@ Website ini merupakan website sederhana yang digunakan untuk memesan makanan mel
 
 # Tujuan
 •	Membantu masyarakat memudahkan pemesanan makanan dan minuman secara online kapan saja dan dimana saja. 
+
 •	Mempermudah pengelolaan menu digital yang fleksibel dan bisa diupdate tanpa biaya cetak ulang. 
+
 •	Memberikan kemudahan bagi pelanggan untuk melihat katalog menu lengkap dengan informasi detail. 
+
 •	Memudahkan customer jika ingin melakukan kerjasama dengan rumah makan tersebut. 
+
 •	Mengurangi antrian dan beban kerja karyawan dalam melayani pesanan secara manual.
 
 # Dokumentasi Website
