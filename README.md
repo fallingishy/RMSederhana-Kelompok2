@@ -1,16 +1,12 @@
 # RMSederhana-Kelompok2
 Website ini merupakan website sederhana yang digunakan untuk memesan makanan melalui website dari sebuah rumah makan sederhana. Website ini juga bisa digunakan untuk platfrom promosi dari Rumah Makan Sederhana.
 
-# Tujuan
-•	Membantu masyarakat memudahkan pemesanan makanan dan minuman secara online kapan saja dan dimana saja. 
-
-•	Mempermudah pengelolaan menu digital yang fleksibel dan bisa diupdate tanpa biaya cetak ulang. 
-
-•	Memberikan kemudahan bagi pelanggan untuk melihat katalog menu lengkap dengan informasi detail. 
-
-•	Memudahkan customer jika ingin melakukan kerjasama dengan rumah makan tersebut. 
-
-•	Mengurangi antrian dan beban kerja karyawan dalam melayani pesanan secara manual.
+# Tujuan Website
+- Membantu masyarakat memudahkan pemesanan makanan dan minuman secara online kapan saja dan dimana saja. 
+- Mempermudah pengelolaan menu digital yang fleksibel dan bisa diupdate tanpa biaya cetak ulang. 
+- Memberikan kemudahan bagi pelanggan untuk melihat katalog menu lengkap dengan informasi detail. 
+- Memudahkan customer jika ingin melakukan kerjasama dengan rumah makan tersebut. 
+- Mengurangi antrian dan beban kerja karyawan dalam melayani pesanan secara manual.
 
 # Dokumentasi Website
 ## Tampilan Dashboard Pengguna
